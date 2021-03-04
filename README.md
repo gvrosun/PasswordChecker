@@ -1,6 +1,6 @@
 # PasswordChecker
 
-Foobar is a Python script to verify the security of your password
+PasswordChecker is a Python script to verify the security of your password
 
 ## Requirements
 ```bash
